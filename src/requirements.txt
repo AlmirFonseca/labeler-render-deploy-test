@@ -1,0 +1,4 @@
+dash==2.13.0
+dash_bootstrap_components==1.4.1
+numpy==1.23.5
+plotly==5.13.0

@@ -1,0 +1,9 @@
+components==1.2.8
+dash==2.13.0
+dash_bootstrap_components==1.4.1
+firebase_admin==6.3.0
+numpy==1.23.5
+plotly==5.13.0
+gunicorn
+pandas
+dash-tools
